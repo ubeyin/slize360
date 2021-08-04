@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 
 /*!
- * Slizex v1.0 (https://ubeyin.github.io/slizex)
+ * Slizex v1.0 (https://ubeyin.github.io/slize)
  * Copyright 2020-2021 The Slizex Authors
  * Copyright 2020-2021 Ubeyin, Co.
  * Licensed under Apache 2.0 (https://github.com/ubeyin/slize/blob/main/LICENSE)
@@ -6129,6 +6129,10 @@ fieldset:disabled .button {
 
 .cutline {
     text-decoration: line-through !important
+}
+
+.list-none {
+    list-style: none !important;
 }
 
 .monospace {
