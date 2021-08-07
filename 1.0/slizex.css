@@ -6141,23 +6141,23 @@ fieldset:disabled .button {
 
 /****** VERTICAL ALIGN ******/
 
-.align-top {
+.justify-top {
     vertical-align: top !important
 }
 
-.align-middle {
+.justify-middle {
     vertical-align: middle !important
 }
 
-.align-bottom {
+.justify-bottom {
     vertical-align: bottom !important
 }
 
-.align-text-bottom {
+.justify-text-bottom {
     vertical-align: text-bottom !important
 }
 
-.align-text-top {
+.justify-text-top {
     vertical-align: text-top !important
 }
 
@@ -6287,27 +6287,27 @@ fieldset:disabled .button {
         gap: 3rem !important
     }
 
-    .align-sm-start {
+    .justify-sm-start {
         justify-content: flex-start !important
     }
 
-    .align-sm-end {
+    .justify-sm-end {
         justify-content: flex-end !important
     }
 
-    .align-sm-center {
+    .justify-sm-center {
         justify-content: center !important
     }
 
-    .align-sm-between {
+    .justify-sm-between {
         justify-content: space-between !important
     }
 
-    .align-sm-around {
+    .justify-sm-around {
         justify-content: space-around !important
     }
 
-    .align-sm-evenly {
+    .justify-sm-evenly {
         justify-content: space-evenly !important
     }
 
@@ -6927,27 +6927,27 @@ fieldset:disabled .button {
         gap: 3rem !important
     }
 
-    .align-md-start {
+    .justify-md-start {
         justify-content: flex-start !important
     }
 
-    .align-md-end {
+    .justify-md-end {
         justify-content: flex-end !important
     }
 
-    .align-md-center {
+    .justify-md-center {
         justify-content: center !important
     }
 
-    .align-md-between {
+    .justify-md-between {
         justify-content: space-between !important
     }
 
-    .align-md-around {
+    .justify-md-around {
         justify-content: space-around !important
     }
 
-    .align-md-evenly {
+    .justify-md-evenly {
         justify-content: space-evenly !important
     }
 
@@ -7567,27 +7567,27 @@ fieldset:disabled .button {
         gap: 3rem !important
     }
 
-    .align-lg-start {
+    .justify-lg-start {
         justify-content: flex-start !important
     }
 
-    .align-lg-end {
+    .justify-lg-end {
         justify-content: flex-end !important
     }
 
-    .align-lg-center {
+    .justify-lg-center {
         justify-content: center !important
     }
 
-    .align-lg-between {
+    .justify-lg-between {
         justify-content: space-between !important
     }
 
-    .align-lg-around {
+    .justify-lg-around {
         justify-content: space-around !important
     }
 
-    .align-lg-evenly {
+    .justify-lg-evenly {
         justify-content: space-evenly !important
     }
 
@@ -8207,27 +8207,27 @@ fieldset:disabled .button {
         gap: 3rem !important
     }
 
-    .align-xl-start {
+    .justify-xl-start {
         justify-content: flex-start !important
     }
 
-    .align-xl-end {
+    .justify-xl-end {
         justify-content: flex-end !important
     }
 
-    .align-xl-center {
+    .justify-xl-center {
         justify-content: center !important
     }
 
-    .align-xl-between {
+    .justify-xl-between {
         justify-content: space-between !important
     }
 
-    .align-xl-around {
+    .justify-xl-around {
         justify-content: space-around !important
     }
 
-    .align-xl-evenly {
+    .justify-xl-evenly {
         justify-content: space-evenly !important
     }
 
@@ -8847,27 +8847,27 @@ fieldset:disabled .button {
         gap: 3rem !important
     }
 
-    .align-xr-start {
+    .justify-xr-start {
         justify-content: flex-start !important
     }
 
-    .align-xr-end {
+    .justify-xr-end {
         justify-content: flex-end !important
     }
 
-    .align-xr-center {
+    .justify-xr-center {
         justify-content: center !important
     }
 
-    .align-xr-between {
+    .justify-xr-between {
         justify-content: space-between !important
     }
 
-    .align-xr-around {
+    .justify-xr-around {
         justify-content: space-around !important
     }
 
-    .align-xr-evenly {
+    .justify-xr-evenly {
         justify-content: space-evenly !important
     }
 
