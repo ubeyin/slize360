@@ -148,71 +148,71 @@ body {
 }
 
 
-:not(.row)> .col {
+:not(.row)>.col {
     flex: 1 0 0%;
 }
 
-:not(.row)> .col-auto {
+:not(.row)>.col-auto {
     flex: 0 0 auto;
     width: auto;
 }
 
-:not(.row)> .col-1 {
+:not(.row)>.col-1 {
     flex: 0 0 auto;
     width: 8.3333333333%;
 }
 
-:not(.row)> .col-2 {
+:not(.row)>.col-2 {
     flex: 0 0 auto;
     width: 16.6666666667%;
 }
 
-:not(.row)> .col-3 {
+:not(.row)>.col-3 {
     flex: 0 0 auto;
     width: 25%;
 }
 
-:not(.row)> .col-4 {
+:not(.row)>.col-4 {
     flex: 0 0 auto;
     width: 33.3333333333%;
 }
 
-:not(.row)> .col-5 {
+:not(.row)>.col-5 {
     flex: 0 0 auto;
     width: 41.6666666667%;
 }
 
-:not(.row)> .col-6 {
+:not(.row)>.col-6 {
     flex: 0 0 auto;
     width: 50%;
 }
 
-:not(.row)> .col-7 {
+:not(.row)>.col-7 {
     flex: 0 0 auto;
     width: 58.3333333333%;
 }
 
-:not(.row)> .col-8 {
+:not(.row)>.col-8 {
     flex: 0 0 auto;
     width: 66.6666666667%;
 }
 
-:not(.row)> .col-9 {
+:not(.row)>.col-9 {
     flex: 0 0 auto;
     width: 75%;
 }
 
-:not(.row)> .col-10 {
+:not(.row)>.col-10 {
     flex: 0 0 auto;
     width: 83.3333333333%;
 }
 
-:not(.row)> .col-11 {
+:not(.row)>.col-11 {
     flex: 0 0 auto;
     width: 91.6666666667%;
 }
 
-:not(.row)> .col-12 {
+:not(.row)>.col-12 {
     flex: 0 0 auto;
     width: 100%;
 }
@@ -3786,7 +3786,7 @@ fieldset:disabled .button {
     margin-left: 0
 }
 
-.dropdown .mrnu {
+.dropdown .menu {
     position: absolute;
     z-index: 1000;
     min-width: 10rem;
@@ -3836,7 +3836,7 @@ fieldset:disabled .button {
     background-color: transparent
 }
 
-.dropdown .mrnu.show {
+.dropdown .menu.show {
     display: block
 }
 
@@ -3856,7 +3856,7 @@ fieldset:disabled .button {
 }
 
 
-.dropdown .mrnu li hr {
+.dropdown .menu li hr {
     height: 0;
     margin: .5rem 0;
     overflow: hidden;
@@ -4181,7 +4181,7 @@ fieldset:disabled .button {
     border-color: #dee2e6 #dee2e6 #fff
 }
 
-.nav.tabs .dropdown .mrnu {
+.nav.tabs .dropdown .menu {
     margin-top: -1px;
     border-top-left-radius: 0;
     border-top-right-radius: 0
@@ -4268,7 +4268,7 @@ fieldset:disabled .button {
     padding-left: 0
 }
 
-.navbar .nav .dropdown .mrnu {
+.navbar .nav .dropdown .menu {
     position: static
 }
 
@@ -4329,7 +4329,7 @@ fieldset:disabled .button {
         flex-direction: row
     }
 
-    .navbar.expand .nav .dropdown .mrnu {
+    .navbar.expand .nav .dropdown .menu {
         position: absolute
     }
 
@@ -4361,7 +4361,7 @@ fieldset:disabled .button {
     flex-direction: row
 }
 
-.navbar.expand-auto .nav .dropdown .mrnu {
+.navbar.expand-auto .nav .dropdown .menu {
     position: absolute
 }
 
