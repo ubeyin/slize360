@@ -1,0 +1,135 @@
+:root {
+            /* black */
+            --black: #000000;
+            --black-alpha-1: rgba(0, 0, 0, 0.05);
+            --black-alpha-2: rgba(0, 0, 0, 0.1);
+            --black-alpha-3: rgba(0, 0, 0, 0.15);
+            --black-alpha-4: rgba(0, 0, 0, 0.2);
+            --black-alpha-5: rgba(0, 0, 0, 0.3);
+            --black-alpha-6: rgba(0, 0, 0, 0.4);
+            --black-alpha-7: rgba(0, 0, 0, 0.5);
+            --black-alpha-8: rgba(0, 0, 0, 0.6);
+            --black-alpha-9: rgba(0, 0, 0, 0.8);
+            /* white */
+            --white: #FFFFFF;
+            --white-alpha-1: rgba(255, 255, 255, 0.05);
+            --white-alpha-2: rgba(255, 255, 255, 0.1);
+            --white-alpha-3: rgba(255, 255, 255, 0.2);
+            --white-alpha-4: rgba(255, 255, 255, 0.3);
+            --white-alpha-5: rgba(255, 255, 255, 0.4);
+            --white-alpha-6: rgba(255, 255, 255, 0.5);
+            --white-alpha-7: rgba(255, 255, 255, 0.6);
+            --white-alpha-8: rgba(255, 255, 255, 0.8);
+            /* gray */
+            --gray-1: #F5F6F7;
+            --gray-2: #F2F3F5;
+            --gray-3: #EBEDF0;
+            --gray-4: #DADDE1;
+            --gray-5: #CCD0D5;
+            --gray-6: #BEC3C9;
+            --gray-7: #8D949E;
+            --gray-8: #606770;
+            --gray-9: #444950;
+            --gray-10: #303338;
+            --gray-11: #1C1E21;
+            --dark-gray-1: #CCCCCC;
+            --dark-gray-2: #828282;
+            --dark-gray-3: #4A4A4A;
+            --dark-gray-4: #373737;
+            --dark-gray-5: #282828;
+            --dark-gray-6: #1C1C1C;
+            /* blue */
+            --blue-1: #ECF3FF;
+            --blue-2: #AAC9FF;
+            --blue-3: #77A7FF;
+            --blue-4: #1877F2;
+            --blue-5: #2851A3;
+            --blue-6: #1D3C78;
+            --button: #444950;
+            --highlight: #3578E5;
+            --accent: hsl(214, 89%, 52%);
+            --link: #216FDB;
+            /* color */
+            --red: #FA383E;
+            --green: #00A400;
+            --yellow: #FFBA00;
+            --gold: #f1a817;
+            /* dataviz */
+            --primary1: rgb(134, 218, 255);
+            --primary2: rgb(95, 170, 255);
+            --secondary1: rgb(118, 62, 230);
+            --secondary2: rgb(147, 96, 247);
+            --fluent1: rgb(219, 26, 139);
+            --fluent2: rgb(255, 122, 105);
+            --dark1: rgb(50, 52, 54);
+            --soft: cubic-bezier(.08, .52, .52, 1);
+            --strong: cubic-bezier(.12, .8, .32, 1);
+            /* base */
+            --base-blue: #1877F2;
+            --base-cherry: #F3425F;
+            --base-grape: #9360F7;
+            --base-lemon: #F7B928;
+            --base-lime: #45BD62;
+            --base-pink: #FF66BF;
+            --base-seafoam: #54C7EC;
+            --base-teal: #2ABBA7;
+            --base-tomato: #FB724B;
+            /* font */
+            --font-family-apple: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+            --font-family-default: Helvetica, Arial, sans-serif;
+            --font-family-segoe: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+        }
+
+
+        .primary {
+            color: #fff !important;
+            background-color: #0d6efd !important
+        }
+
+        .secondary {
+            color: #fff !important;
+            background-color: #6c757d !important
+        }
+
+        .success {
+            color: #fff !important;
+            background-color: #198754 !important
+        }
+
+        .info {
+            color: #fff !important;
+            background-color: #0dcaf0 !important
+        }
+
+        .warning {
+            color: #333 !important;
+            background-color: #ffc107 !important
+        }
+
+        .danger {
+            color: #fff !important;
+            background-color: #dc3545 !important
+        }
+
+        .light {
+            color: #333 !important;
+            background-color: #f8f9fa !important
+        }
+
+        .dark {
+            color: #fff !important;
+            background-color: #212529 !important
+        }
+
+        .white {
+            color: #fff !important;
+            background-color: #fff !important
+        }
+
+        .transparent {
+            background-color: transparent !important
+        }
+
+        .gradient {
+            background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0)) !important
+        }
